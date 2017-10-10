@@ -9,7 +9,7 @@
         <module name="datuClient" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
+    <bytecodeTargetLevel target="1.8">
       <module name="datuClient" target="1.8" />
     </bytecodeTargetLevel>
   </component>
